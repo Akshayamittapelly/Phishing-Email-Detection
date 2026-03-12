@@ -4,7 +4,9 @@ This project detects phishing emails using keyword analysis.
 - Detect suspicious email keywords
 - Identify phishing patterns
 - Provide risk level output
+
 => Technologies Used:
 Python
+
 Purpose:-
 This project demonstrates how cybersecurity systems detect phishing emails.
